@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.forma{
+margin-left: 500px;
+margin-top: 80px;
+
+
+
+}
+.p-3{
+	background-color: #05111D
+
+
+
+}
+input{
+	width: 455px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: #05111D;
+	border-width: 3px;
+}
+textarea{
+	border-radius: 10px;
+		background-color: #05111D;
+	border-width: 3px;
+}
+.button{
+	background-color: #05111D;
+	border-color: #7B9EB2;
+	color: gray;
+}
+.result{
+	background-color: #7B9EB2;
+	text-align: center;
+	margin-top: 15px;
+	width: 600px;
+	margin-left: 450px
+}

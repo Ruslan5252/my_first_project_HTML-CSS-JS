@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.header_div{
+	width: 250px;
+	height: 50px;
+	background-color: lightgrey;
+	border-style: solid;
+	border-color: black;
+	font-size: 18px;
+	font-family: "Monotype Corsiva";
+	text-align: left;
+	border-width: 7px; 
+	border-radius: 10px;
+	background-color: #05111D;
+
+}
+
+.header_h1{
+	margin-top: 7px;
+	padding-left: 5px;
+	color: #7B9EB2
+
+}
+.body_div{
+	width: 250px;
+	height: 350px;
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+	border-width: 7px;
+	font-size: 25px;
+	font-family: "Monotype Corsiva";
+	border-radius: 10px;
+	background-color: #05111D;
+
+}
+.main_div{
+	margin-left: 600px;
+	margin-top: 150px;
+}
+.login{
+	margin-top: 65px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	color: #7B9EB2;
+
+}
+.password{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	color: #7B9EB2;
+
+}
+input{
+	width: 230px;
+	height: 25px;
+	margin-left: 10px;
+	border-radius: 10px;
+	background-color: #7B9EB2;
+	border-width: 3px;
+
+
+}
+button{
+	margin-left:145px ;
+	border-radius: 10px;
+	width: 100px;
+	font-size: 20px;
+	margin-top: 10px;
+	background-color: #7B9EB2;
+	color: black;
+	border-width: 3px
+
+}
+button:hover{
+	color: #7B9EB2;
+	background-color: #05111D;
+
+}
